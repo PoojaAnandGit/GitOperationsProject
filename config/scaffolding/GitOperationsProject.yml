@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: GitOperationsProject
+  gitServerName: testExtGit1
+  gitUrl: https://github.com/PoojaAnandGit/GitOperationsProject
+  gitUsername: PoojaAnandGit
+  gitBranch: main
