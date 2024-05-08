@@ -16,3 +16,7 @@ services:
   packages:
   - name: WmPublic
     version: 11.0.0.0.866
+- serviceName: project.gitoperations.integrations:newflow1
+  packages:
+  - name: GitOperationsProject
+    version: "1.0"
